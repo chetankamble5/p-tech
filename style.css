@@ -34,13 +34,13 @@ footer{
  
   font-size: medium;
   background-color: rgb(0, 15, 32);
-  padding: 4%;
+  padding: 2%;
 }
 .info{
     padding: 20%;
 }
 li{
-  padding: 1%;
+  padding: %;
 }
 button{
     /* border: none; */
