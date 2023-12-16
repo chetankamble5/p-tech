@@ -9,23 +9,20 @@
 
 body{
     text-shadow: 0px 10px 10px rgb(56, 0, 9);
-    font-family: Rubik Scribble;
+
     font-size: 30px;
     font-weight: 900;
     background:url("blurry-gradient-haikei.png");
     background-repeat: no-repeat;
     background-size:cover;
     color: rgb(255, 49, 186);
-    animation: glow 2s ease-in-out infinite alternate;
+ 
 }
-@keyframes glow {
-    from {
-      text-shadow: 0 0 20px #5e005a;
-    }
-    to {
-      text-shadow: 0 0 30px #000000, 0 0 10px #ffffff;
-    }
-  }
+p{
+  padding: 4%;
+  text-align: justify;
+}
+
 
 span{
     letter-spacing: 10px;
@@ -59,7 +56,7 @@ button{
     box-shadow: 0px 0px 10px 10px rgb(136, 1, 255);
 }
 a{
-    font-family: Rubik Scribble;
+  
     text-decoration: none;
     color: rgb(255, 255, 255);
     letter-spacing: 5px;
