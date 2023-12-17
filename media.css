@@ -11,7 +11,11 @@
     font-size: 60px;
 }
 .container img{
-    padding-top: 40%;
+    height: 100px;
+    width:100px;
+
+ 
+
 }
 .container p{
     font-size: 20px;
